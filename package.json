@@ -1,0 +1,17 @@
+{
+  "name": "github-manager",
+  "version": "1.0.0",
+  "description": "مدیریت‌کننده‌ی گیت‌هاب — ورود با حساب گیت‌هاب، مدیریت کامل فایل‌ها و پوشه‌های مخازن (شامل خصوصی) و ثبت تغییرات به‌صورت کامیت واقعی",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "start:win": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "keywords": ["github", "manager", "sqlite", "react", "file-manager"],
+  "license": "MIT",
+  "private": true
+}
